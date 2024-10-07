@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goureesh Chandra</h1>
 <h3 align="center">A Game Development and Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herogo3241&label=Profile%20views&color=0e75b6&style=flat" alt="herogo3241" /> </p>
-
 - 📝 I write articles on [https://medium.com/@goureesh728](https://medium.com/@goureesh728)
 
 - 📫 How to reach me **goureesh728@gmail.com**
