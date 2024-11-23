@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🕹️ **Passion:** Crafting immersive game experiences.  
-- ✍️ **Writer:** Sharing knowledge on  [Medium](https://medium.com/@goureesh728).  
+- ✍️ **Writer:** Check out my blog at [Medium](https://medium.com/@goureesh728).  
 - 🔍 **Explorer:** Always on the lookout for new tools and techniques.
 - 📬 **Reach me at:** [goureesh728@gmail.com](mailto:goureesh728@gmail.com).  
 
@@ -23,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sfml/sfml-original.svg" alt="SFML" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
