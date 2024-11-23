@@ -36,7 +36,7 @@
 
 ---
 
-<details> <summary> <h3> 📊 GitHub Stats (Click to Expand) </h3> </summary> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herogo3241&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=herogo3241&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=herogo3241&theme=radical" alt="GitHub Streak" /> </p> </details>
+<details> <summary> <h3> 📊 GitHub Stats</h3> </summary> <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herogo3241&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=herogo3241&show_icons=true&theme=radical" alt="GitHub Stats" /> </p> <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=herogo3241&theme=radical" alt="GitHub Streak" /> </p> </details>
 
 ---
 
