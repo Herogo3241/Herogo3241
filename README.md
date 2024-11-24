@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👾, I'm Goureesh Chandra</h1>
 <h3 align="center">🎮 Game Developer | 🤖 Machine Learning Enthusiast | 💡 Problem Solver</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46289795/197390501-89920821-bf2e-4c91-a91d-bafbb0d757a3.gif" alt="Game Development Banner" width="80%">
-</p>
+
 
 ---
 
