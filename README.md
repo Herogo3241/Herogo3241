@@ -35,11 +35,14 @@
 ---
 
 <details> <summary> <h3> 📊 GitHub Stats</h3> </summary>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herogo3241&layout=donut&theme=merko" alt="Top Languages" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herogo3241&layout=donut&theme=dark" alt="Top Languages" /> </p>
 <!--   [![Herogo3241's GitHub | Languages Over Time](https://stats.quira.sh/Herogo3241/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Herogo3241) -->
 <!--   <p align="left"> <img src="https://stats.quira.sh/Herogo3241/languages-over-time?theme=dark&height=100&width=200" alt="Languages Over Time" /> </p> -->
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=herogo3241&show_icons=true&theme=merko" alt="GitHub Stats" /> </p> 
-  <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=herogo3241&theme=merko" alt="GitHub Streak" /> </p> </details>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=herogo3241&show_icons=true&theme=dark" alt="GitHub Stats" /> </p> 
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herogo3241&theme=dark" alt="GitHub Streak" /> </p>
+ <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Herogo3241&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Streak" /> </p>
+
+</details>
 
 ---
 
