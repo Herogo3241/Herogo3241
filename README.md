@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🕹️ **Passion:** Crafting immersive game experiences.  
+- 🕹️ **Passion:** Crafting immersive game experiences. Check out my games at [itch.io](https://herogo3241.itch.io/)  
 - ✍️ **Writer:** Check out my blog at [Medium](https://medium.com/@goureesh728).  
 - 🔍 **Explorer:** Always on the lookout for new tools and techniques.
 - 📬 **Reach me at:** [goureesh728@gmail.com](mailto:goureesh728@gmail.com).  
