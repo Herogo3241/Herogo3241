@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👾, I'm Goureesh Chandra</h1>
-<h3 align="center">🎮 Game Developer | 🤖 Machine Learning Enthusiast | 💡 Problem Solver</h3>
+<h3 align="center">🎮 Game Developer | 💡 Problem Solver</h3>
 
 
 
@@ -58,5 +58,5 @@
 ---
 
 ### 🎯 Let’s Build!
-🚀 Whether it's games, machine learning models, or creative coding experiments—I'm always up for collaboration!  
+🚀 Whether it's games or creative coding experiments—I'm always up for collaboration!  
 
